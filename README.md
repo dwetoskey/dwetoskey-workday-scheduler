@@ -1,5 +1,7 @@
 # Worday Scheduler
-  ![Github licence](https://img.shields.io/badge/No License-License-blue)
+
+## URL
+  https://dwetoskey.github.io/dwetoskey-workday-scheduler/
   
   ## Description 
   This scheduler will help you plan out your worday. It changes color based on past, present, and future times and shows the current date at the top. It uses local storage to keep track of all of your input.
